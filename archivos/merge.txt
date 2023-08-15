@@ -1,2 +1,6 @@
 Juan Andres Giraldo Restrepo, 21 años.
 Mis objetivos en la materia están orientados hacia el entendimiento de este paradigma de la programación tan usado actualmente, y sobre todo expandir un poco más mis perspectivas respecto a la ingeniería de sistemas
+No se pudo hacer el commit porque la carpeta estaba vacia
+
+
+Al modificar dos archivos al mismo tiempo estamos trabajando desincronizadamente, lo que podría llevar, como en este caso, a obstaculizar el flujo de trabajo, para ello se recomienda trabajar siempre desde el directorio local.
